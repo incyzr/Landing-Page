@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	padding-top:70px;
+	padding-bottom:70px;
+}
+
+#top-navbar{
+	background-color:gray;
+	border:none;
+}
+
+#top-navbar a{
+	height:80px;
+	color:white;
+}
+
+#top-navbar .active a{
+	background-color:#616161;
+}
+
+#top-navbar .navbar-nav a{
+	padding-top:32px;
+}
+
+#bottom-navbar{
+	height:60px;
+	padding:10px;
+}
+
+#bottom-navbar p{
+	margin-top:10px;
+	color:white;
+}
